@@ -44,10 +44,10 @@ A V2board node server based on multi core, modified from XrayR.
 
 ## 软件安装
 
-### 一键安装
+### 一键安装 已修改为我的仓库
 
 ```
-wget -N https://raw.githubusercontent.com/wyx2685/V2bX-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/718047916/V2bX-script/master/install.sh && bash install.sh
 ```
 
 ### 手动安装
